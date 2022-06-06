@@ -31,10 +31,10 @@ export default theme({
   },
   i18n: {
     locales: () => [{
-      code: 'de',
-      iso: 'de-DE',
-      file: 'de-DE.js',
-      name: 'Deutsch'
+      code: 'en',
+      iso: 'en-EN',
+      file: 'en-EN.js',
+      name: 'English'
     }, {
       code: 'pl',
       iso: 'pl-PL',
