@@ -1,8 +1,8 @@
 ---
-title: The File System
+title: łowienie
 description: 'This wiki is meant to be the extended documentation for both end users and developers, so it is separated in those two categories.'
 position: 21
-category: Linux Concepts
+category: Przykłady
 ---
 
 The Linux (and UNIX) file system is a hierarchical structure of files and directories that make up a Linux operating system.

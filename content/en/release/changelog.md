@@ -1,8 +1,8 @@
 ---
-title: Errata
+title: Changelog
 description: 'Various known bugs and other issues in Ultramarine Linux.'
 position: 50
-category: Release Notes
+category: Zmiany
 ---
 
 This page contains the erratum for Ultramarine Linux releases.
@@ -16,16 +16,6 @@ An erratum (or corrigendum) is a correction of a published release. It is usuall
 ### Some installer scripts not supporting Ultramarine, even though it is a Fedora-based OS
 
 This is related to [DNF Tells the user there are no repositories available for a Copr project](/release/errata#dnf-tells-the-user-there-are-no-repositories-available-for-a-copr-project), This bug may only be addressed upstream, or until there is mainstream recognition of Ultramarine Linux itself.
-
-
-# Ultramarine 36 (Build 1.1)
-
-## Applications
-
-### Firefox still includes Fedora bookmarks
-
-This is caused by the inclusion of the `fedora-bookmarks` package, which is a weak dependency of Firefox in Fedora. Uninstalling this package may not fix the issue on an already configured account. Simply remove the bookmarks yourself.
-
 
 ### Anaconda shows a warning about the system being pre-release
 

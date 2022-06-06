@@ -70,8 +70,3 @@ Można wybrać jakie cele ma atakować waithack
 #### Robi ważenie, prawda?
 
 </details>
-
-## Planned features
-- Welcome app for user onboarding with quick access to common actions
-- System configuration application similar to YaST
-

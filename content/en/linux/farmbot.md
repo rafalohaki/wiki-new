@@ -1,8 +1,8 @@
 ---
-title: Concepts Overview
+title: Farmbot
 description: 'This wiki is meant to be the extended documentation for both end users and developers, so it is separated in those two categories.'
 position: 20
-category: Linux Concepts
+category: Przykłady
 ---
 
 This article and this section outlines the concepts of Linux, GNU, and UNIX concepts.
