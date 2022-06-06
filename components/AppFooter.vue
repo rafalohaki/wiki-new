@@ -5,7 +5,9 @@
                 <span>Copyright © 2022 WPME.PL</span>
             </div>
             <div class="flex items-center space-x-4">
+                <p>Lang:</p>
                 <AppLangSwitcher />
+                <p>Theme:</p>
                 <AppColorSwitcher />
             </div>
         </div>
