@@ -13,7 +13,7 @@
                     :aria-label="`${settings.title} Logo`"
                     >
                     <div class="flex flex-row gap-2 items-center">
-                        <img v-if="logo" src="static/logo.png" class="h-8 max-w-full" :alt="settings.title" />
+                        <img v-if="logo" src="/static/logo.png" class="h-8 max-w-full" :alt="settings.title" />
                         <span>{{ settings.title }}</span>
                     </div>
                     </NuxtLink>
