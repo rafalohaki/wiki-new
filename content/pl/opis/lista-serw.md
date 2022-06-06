@@ -11,7 +11,6 @@ gr { color: Green }
 </style>
 | **Nazwa** | **Strona Główna** | **Status** | **Dodano** |
 |----------|-------|-------|-------|
-|   |   |   |   |
 | ClassicMT2| https://Classicmt2.pl| <o><o>Prace Techniczne</o></o> | 2021-09-27 16:06:09   | 
 | Samia2| https://s2.samia.pl| <gr>Działa</gr> | 2021-06-04 20:00:00   | 
 | Kevra RemastereD| https://Kevra.pl| <gr>Działa</gr> | 2022-02-12 13:41:58   | 
