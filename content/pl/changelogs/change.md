@@ -14,6 +14,3 @@ An erratum (or corrigendum) is a correction of a published release. It is usuall
 ## Applications
 
 ### Some installer scripts not supporting Ultramarine, even though it is a Fedora-based OS
-
-This is related to [DNF Tells the user there are no repositories available for a Copr project](/release/errata#dnf-tells-the-user-there-are-no-repositories-available-for-a-copr-project), This bug may only be addressed upstream, or until there is mainstream recognition of Ultramarine Linux itself.
-
