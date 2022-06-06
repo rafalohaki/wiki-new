@@ -32,8 +32,8 @@ export default theme({
   i18n: {
     locales: () => [{
       code: 'en',
-      iso: 'en-EN',
-      file: 'en-EN.js',
+      iso: 'en-US',
+      file: 'en-US.js',
       name: 'English'
     }, {
       code: 'pl',
