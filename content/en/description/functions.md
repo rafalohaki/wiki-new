@@ -1,8 +1,8 @@
 ---
-title: Functions HLBOT
+title: Funkcje HLBOT
 description: 'Various known bugs and other issues in Ultramarine Linux.'
 position: 5
-category: description
+category: opis
 ---
 
 ## Opis funkcji

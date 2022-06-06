@@ -4,7 +4,7 @@ description: 'This wiki is meant to be the extended documentation for both end u
 position: 0
 category: ''
 ---
-### english version of HLBOT wiki
+HLBOT, Jest to uniwersalny multihack do prywatnych serwerów metin2.
 
 Jest to zaawansowany multihack, który pozwala na zarządzanie funkcjami za pomocą objeść klienta prywatnego serwera metin2.
 

@@ -1,7 +1,7 @@
 ---
 title: Changelog
 description: 'Various known bugs and other issues in Ultramarine Linux.'
-position: 50
+position: 51
 category: Zmiany
 ---
 
